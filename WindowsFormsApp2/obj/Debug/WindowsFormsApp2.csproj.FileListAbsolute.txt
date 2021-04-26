@@ -1,0 +1,17 @@
+D:\Do an\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Do an\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Do an\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DangNhap.resources
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BangChon.resources
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.XemPhong.resources
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ThuePhong.resources
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KhachHang.resources
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DichVu.resources
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ThemDichVu.resources
+D:\Do an\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ThanhToan.resources
